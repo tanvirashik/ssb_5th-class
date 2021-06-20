@@ -1,0 +1,221 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	color: limegreen;
+	padding: 8px;
+	text-align: center;
+	background-color: #1d6e92;
+}
+.div{
+	background-color: #52a2ae;
+}
+article{
+	overflow: hidden;
+}
+article h2{
+	text-align: center;
+	color: tomato;
+	font-size: 40px;
+}
+article p{
+	margin:0px 50px 25px 50px;
+}
+blockquote{
+	margin:0px 50px 25px 50px;
+}
+figure{
+	margin:0px 50px 25px 50px;
+}
+aside{
+	margin:70px 50px 25px 180px;
+	overflow: hidden;
+}
+.left{
+	width: 300px;
+	text-align: justify;
+	float: left;
+	margin-right: 30px;
+}
+.middle{
+	width: 300px;
+	text-align: justify;
+	float: left;
+	margin-left: 20px;
+	margin-right: 30px;
+}
+.right{
+	width: 300px;
+	text-align: justify;
+	float: left;
+	margin-left: 20px;
+}
+.box{
+	margin: 100px;
+	overflow: hidden;
+}
+.div1{
+	width: 200px;
+	height: 220px;
+	background-color: #88cc00;
+	float: left;
+	text-align: center;
+}
+.div2{
+	width: 200px;
+	height: 220px;
+	background-color: #1e2f40;
+	float: left;
+	margin-left: 20px;
+	text-align: center;
+}
+.div3{
+	width: 200px;
+	height: 220px;
+	background-color: #862d40;
+	float: left;
+	margin-left: 20px;
+	text-align: center;
+}
+.div4{
+	width: 200px;
+	height: 220px;
+	background-color: #8673f2;
+	float: left;
+	margin-left: 20px;
+	text-align: center;
+}
+.div5{
+	width: 200px;
+	height: 220px;
+	background-color: #86ccf2;
+	float: left;
+	margin-left: 20px;
+	text-align: center;
+}
+.block{
+	margin: 100px;
+	overflow: hidden;
+}
+.div6{
+	width: 200px;
+	height: 220px;
+	background-color: red;
+	float: left;
+	display: inline;
+}
+.div7{
+	width: 200px;
+	height: 220px;
+	background-color: green;
+	float: right;
+}
+
+.div8{
+	width: 200px;
+	height: 220px;
+	background-color: yellow;
+	float: left;
+	margin-left: 270px;
+}
+form{
+	margin: 100px;
+	padding: 10px;
+	width: 600px;
+}
+
+.inline{
+	background-color: #b4b4b4;
+}
+.abbr p{
+	margin: 20px 100px 30px 100px;
+}
+.abbr abbr{
+	color: red;
+}
+.img22{
+	margin: 100px;
+}
+.img22 img{
+	margin: 50px;
+}
+.spn p{
+	margin: 20px 100px 20px 100px;
+}
+
+.blue{
+	background-color: blue;
+}
+.lime{
+	background-color: lime;
+}
+.red{
+	background-color: #6a5acd;
+}
+textarea{
+	margin: 30px 100px 30px 100px;
+}
+.sub{
+	margin: 20px 100px 30px 100px;
+	display: inline-block;
+}
+table{
+	width: 600px;
+	height: 200px;
+	margin-left: 200px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+th{
+	background-color: lime;
+}
+td:hover{
+	background-color: #ddd;
+}
+tr{
+	background-color: #787878;
+}
+.jackson{
+	background-color: #ffa500;
+}
+.jackson:hover{
+	background-color: #ffa500;
+}
+.jill{
+	background-color: #e753ac;
+}
+.jill:hover{
+	background-color: #e753ac;
+}
+.adam{
+	background-color: #e753ac;
+}
+.adam:hover{
+	background-color: #e753ac;
+}
+.adamj{
+	background-color: #190aac;
+}
+.adamj:hover{
+	background-color: #190aac;
+}
+footer{
+	background-color: #374045;
+	min-height: 50px;
+}
+footer p{
+	text-align: center;
+	margin-top: 10px;
+	color: #ddd;
+	font-size: 15px;
+}
+.blk{
+	margin-left: 200px;
+	margin-bottom: 50px;
+}
+.inlineelement{
+	margin-left: 200px;
+	margin-bottom: 50px;
+}
